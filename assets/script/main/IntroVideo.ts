@@ -72,6 +72,10 @@ export class IntroVideo extends Component {
         return true;
     }
 
+    public test() :void{
+        console.log('提交测试')
+    }
+
     // 保持底板铺满可视区，播放期间更新视频提示和字幕。
     protected update(): void {
         const { width, height } = view.getVisibleSize();
