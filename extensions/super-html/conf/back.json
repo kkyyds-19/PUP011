@@ -1,0 +1,214 @@
+[
+    {
+        "channel": "common",
+        "enable": true
+    },
+    {
+        "channel": "common",
+        "enable": true,
+        "s_html_name": "min",
+        "b_html_compression": true
+    },
+    {
+        "channel": "applovin",
+        "enable": true,
+        "b_html_compression": true
+    },
+    {
+        "channel": "ironsource2025",
+        "enable": true,
+        "b_html_compression": true
+    },
+    {
+        "channel": "mintegral",
+        "enable": true,
+        "b_html_compression": false,
+        "b_out_zip": true
+    },
+    {
+        "channel": "unity",
+        "enable": true,
+        "b_html_compression": true
+    },
+    {
+        "channel": "chartboost",
+        "enable": true,
+        "b_html_compression": true
+    },
+    {
+        "channel": "google",
+        "enable": true,
+        "b_html_compression": true,
+        "b_out_zip": true
+    },
+    {
+        "channel": "google_portrait",
+        "enable": true,
+        "b_html_compression": true,
+        "b_out_zip": true,
+        "s_zip_name": "portrait"
+    },
+    {
+        "channel": "google_landscape",
+        "enable": true,
+        "b_html_compression": true,
+        "b_out_zip": true,
+        "s_zip_name": "landscape"
+    },
+    {
+        "channel": "facebook",
+        "enable": true,
+        "b_html_compression": true
+    },
+    {
+        "channel": "facebook",
+        "enable": true,
+        "b_html_compression": true,
+        "b_out_zip": true,
+        "b_split_res": true
+    },
+    {
+        "channel": "pangle",
+        "enable": true,
+        "b_html_compression": false,
+        "b_out_zip": true
+    },
+    {
+        "channel": "pangle_portrait",
+        "enable": true,
+        "b_html_compression": false,
+        "b_out_zip": true,
+        "s_zip_name": "portrait"
+    },
+    {
+        "channel": "pangle_landscape",
+        "enable": true,
+        "b_html_compression": false,
+        "b_out_zip": true,
+        "s_zip_name": "landscape"
+    },
+    {
+        "channel": "liftoff",
+        "enable": true,
+        "b_html_compression": false,
+        "b_out_zip": true
+    },
+    {
+        "channel": "moloco",
+        "enable": true,
+        "b_html_compression": true
+    },
+    {
+        "channel": "tiktok",
+        "enable": true,
+        "b_html_compression": false,
+        "b_out_zip": true
+    },
+    {
+        "channel": "vungle",
+        "enable": true,
+        "b_html_compression": false,
+        "b_out_zip": true
+    },
+    {
+        "channel": "bigo",
+        "enable": true,
+        "b_html_compression": false,
+        "b_out_zip": true
+    },
+    {
+        "channel": "kwai",
+        "enable": true,
+        "b_html_compression": false,
+        "b_out_zip": true
+    },
+    {
+        "channel": "nefta",
+        "enable": true,
+        "b_html_compression": true
+    },
+    {
+        "channel": "nefta",
+        "enable": true,
+        "b_html_compression": false,
+        "b_out_zip": true
+    },
+    {
+        "channel": "snapchat",
+        "enable": true,
+        "b_html_compression": true,
+        "b_out_zip": true,
+        "s_zip_name": "portrait"
+    },
+    {
+        "channel": "gdt",
+        "enable": true,
+        "b_html_compression": true,
+        "b_out_zip": true
+    },
+    {
+        "channel": "gdt_portrait",
+        "enable": true,
+        "b_html_compression": true,
+        "b_out_zip": true,
+        "s_zip_name": "portrait"
+    },
+    {
+        "channel": "gdt_landscape",
+        "enable": true,
+        "b_html_compression": true,
+        "b_out_zip": true,
+        "s_zip_name": "landscape"
+    },
+    {
+        "channel": "news_break",
+        "enable": true,
+        "b_html_compression": true
+    },
+    {
+        "channel": "inmobi",
+        "enable": true,
+        "b_html_compression": true
+    },
+    {
+        "channel": "yandex",
+        "enable": true,
+        "b_html_compression": true,
+        "b_out_zip": true,
+        "b_split_res": true
+    },
+    {
+        "channel": "yandex",
+        "enable": true,
+        "b_html_compression": true,
+        "b_out_zip": true,
+        "b_split_res": true
+    },
+    {
+        "channel": "appier",
+        "enable": true,
+        "b_html_compression": true
+    },
+    {
+        "channel": "adikteev",
+        "enable": true,
+        "b_html_compression": true
+    },
+    {
+        "channel": "adcolony",
+        "enable": true,
+        "b_html_compression": true
+    },
+    {
+        "channel": "tapjoy",
+        "enable": true,
+        "b_html_compression": true
+    },
+    {
+        "channel": "remerge",
+        "enable": true,
+        "b_html_compression": true,
+        "b_out_zip": true,
+        "b_split_js": true
+    }
+]

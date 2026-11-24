@@ -1,0 +1,35 @@
+{
+    "packageName": " 1",
+    "exportChannels": [
+        "Applovin",
+        "Facebook",
+        "Google",
+        "Moloco",
+        "Mintegral",
+        "Unity",
+        "Tiktok",
+        "Vungle",
+        "IronSource"
+    ],
+    "adnalyticsChannels": [],
+    "storeUrl": {
+        "ios": "1",
+        "android": "2"
+    },
+    "i18n": [
+        "en",
+        "ja",
+        "ko",
+        "de",
+        "fr",
+        "ru",
+        "es",
+        "pt",
+        "zh"
+    ],
+    "enableSplash": true,
+    "playableId": "",
+    "playableVersion": "3.8.6",
+    "distributorName": "KOA",
+    "extremeCompression": false
+}

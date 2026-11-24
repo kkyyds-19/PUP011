@@ -1,0 +1,10 @@
+{
+  "webBuildRoot": "build/web-mobile",
+  "sourceRoot": "build/super-html",
+  "outputRoot": "build/playable-variants",
+  "outputBuildPrefix": "CRMPLY0007_GOLD-COINS_PLY_V1",
+  "creatorVersion": "3.8.8",
+  "refreshSuperHtml": true,
+  "androidUrl": "https://play.google.com/store/apps/details?id=com.miniclip.carrom",
+  "iosUrl": "https://apps.apple.com/tw/app/carrom-pool-disc-game/id1420551478?l=en-GB"
+}

@@ -1,0 +1,10 @@
+{
+  "webBuildRoot": "build/web-mobile",
+  "sourceRoot": "build/super-html",
+  "outputRoot": "build/playable-variants",
+  "outputBuildPrefix": "PUPPLY0001A_Play-Picture-Cross_PLY_V2",
+  "creatorVersion": "3.8.6",
+  "refreshSuperHtml": true,
+  "androidUrl": "https://play.google.com/store/apps/details?id=com.appynation.puzzlepage&hl=en",
+  "iosUrl": "https://apps.apple.com/us/app/puzzle-page-daily-games/id1308181322"
+}
